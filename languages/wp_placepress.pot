@@ -1,0 +1,680 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-07 19:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: admin/metaboxes.php:231
+msgid "Tour Details"
+msgstr ""
+
+#: admin/metaboxes.php:234
+msgid "Postscript Text"
+msgstr ""
+
+#: admin/metaboxes.php:239
+msgid ""
+"Add postscript text to the end of the tour, for example, to thank a sponsor "
+"or add directional information."
+msgstr ""
+
+#: admin/metaboxes.php:247
+msgid "Tour Locations"
+msgstr ""
+
+#: admin/metaboxes.php:250
+msgid "Locations for this Tour"
+msgstr ""
+
+#: admin/metaboxes.php:255
+msgid ""
+"Choose locations for this tour. You can <a href=\"/wp-admin/edit.php?"
+"post_type=locations\">add and edit Location posts here</a>."
+msgstr ""
+
+#: admin/metaboxes.php:263
+msgid "Location Header"
+msgstr ""
+
+#: admin/metaboxes.php:266 admin/settings.php:181
+msgid "Subtitle"
+msgstr ""
+
+#: admin/metaboxes.php:271
+msgid "Enter a subtitle for the tour."
+msgstr ""
+
+#: admin/metaboxes.php:275 admin/settings.php:190
+msgid "Lede"
+msgstr ""
+
+#: admin/metaboxes.php:280
+msgid ""
+"A brief introductory section that is intended to entice the reader to read "
+"the full entry."
+msgstr ""
+
+#: admin/metaboxes.php:288
+msgid "Media Files"
+msgstr ""
+
+#: admin/metaboxes.php:291
+msgid "Choose Media"
+msgstr ""
+
+#: admin/metaboxes.php:296
+msgid ""
+"Select files from the Media Library and/or upload new files. These files "
+"will be used to create structured display areas for each media type, "
+"including images, audio, and video. Drag and drop to change the order of "
+"files."
+msgstr ""
+
+#: admin/metaboxes.php:304
+msgid "Location Details"
+msgstr ""
+
+#: admin/metaboxes.php:307
+msgid "Street Address"
+msgstr ""
+
+#: admin/metaboxes.php:312
+msgid "A detailed street/mailing address for a physical location."
+msgstr ""
+
+#: admin/metaboxes.php:316
+msgid "Access Information"
+msgstr ""
+
+#: admin/metaboxes.php:321
+msgid ""
+"Information regarding physical access to a location, including restrictions "
+"(e.g. \"Private Property\"), walking directions (e.g. \"To reach the peak, "
+"take the trail on the left\"), or other useful details (e.g. \"Location is "
+"approximate\")."
+msgstr ""
+
+#: admin/metaboxes.php:325
+msgid "Official Website"
+msgstr ""
+
+#: admin/metaboxes.php:330
+msgid ""
+"An official website related to the entry. Use <a href=\"https://guides."
+"github.com/features/mastering-markdown/\" target=\"_blank\">markdown</a> to "
+"create an active link, e.g. to link to Google use <pre>[google](https:"
+"//google.com)</pre>."
+msgstr ""
+
+#: admin/metaboxes.php:334
+msgid "Map Coordinates"
+msgstr ""
+
+#: admin/metaboxes.php:339
+msgid ""
+"Use the map to add geo-coordinates for this location as a bracketed array, e."
+"g. <pre>[41.503240,-81.675249]</pre>"
+msgstr ""
+
+#: admin/metaboxes.php:343
+msgid "Map Zoom"
+msgstr ""
+
+#: admin/metaboxes.php:348
+msgid ""
+"Use the map to add the default zoom level for this location as a single "
+"integer between 1 and 20."
+msgstr ""
+
+#: admin/metaboxes.php:356 admin/metaboxes.php:359
+msgid "Related Resources"
+msgstr ""
+
+#: admin/metaboxes.php:364
+msgid ""
+"The name of or link to a related resource, often used for citation "
+"information. Use <a href=\"https://guides.github.com/features/mastering-"
+"markdown/\" target=\"_blank\">markdown</a> to add formatting as needed."
+msgstr ""
+
+#: admin/post_types.php:14 admin/post_types.php:16 admin/post_types.php:28
+#: admin/post_types.php:35
+msgid "Tours"
+msgstr ""
+
+#: admin/post_types.php:17 admin/post_types.php:36
+msgid "Tour"
+msgstr ""
+
+#: admin/post_types.php:18 admin/post_types.php:91
+msgid "Add New"
+msgstr ""
+
+#: admin/post_types.php:19
+msgid "Add New Tour"
+msgstr ""
+
+#: admin/post_types.php:20
+msgid "Edit Tour"
+msgstr ""
+
+#: admin/post_types.php:21
+msgid "New Tour"
+msgstr ""
+
+#: admin/post_types.php:22
+msgid "View Tour"
+msgstr ""
+
+#: admin/post_types.php:23
+msgid "Search Tours"
+msgstr ""
+
+#: admin/post_types.php:24
+msgid "No Tours Found"
+msgstr ""
+
+#: admin/post_types.php:25
+msgid "No Tours Found in Trash"
+msgstr ""
+
+#: admin/post_types.php:26
+msgid "Parent Tour"
+msgstr ""
+
+#: admin/post_types.php:27
+msgid "All Tours"
+msgstr ""
+
+#: admin/post_types.php:29
+msgid "Insert into Tour"
+msgstr ""
+
+#: admin/post_types.php:30
+msgid "Uploaded to this Tour"
+msgstr ""
+
+#: admin/post_types.php:31
+msgid "Tour Image"
+msgstr ""
+
+#: admin/post_types.php:32
+msgid "Set Tour Image"
+msgstr ""
+
+#: admin/post_types.php:33
+msgid "Remove Tour Image"
+msgstr ""
+
+#: admin/post_types.php:34
+msgid "Use as Tour Image"
+msgstr ""
+
+#: admin/post_types.php:38
+msgid "Collections of location-based locations."
+msgstr ""
+
+#: admin/post_types.php:64
+msgid "Tour Types"
+msgstr ""
+
+#: admin/post_types.php:66
+msgid "Types"
+msgstr ""
+
+#: admin/post_types.php:67
+msgid "Add New Type"
+msgstr ""
+
+#: admin/post_types.php:68
+msgid "Separate types with commas"
+msgstr ""
+
+#: admin/post_types.php:69
+msgid "Choose from most used types"
+msgstr ""
+
+#: admin/post_types.php:70
+msgid "Add or Remove Types"
+msgstr ""
+
+#: admin/post_types.php:71
+msgid "No Tour Types Found"
+msgstr ""
+
+#: admin/post_types.php:72
+msgid "Search Types"
+msgstr ""
+
+#: admin/post_types.php:73
+msgid "All Types"
+msgstr ""
+
+#: admin/post_types.php:74
+msgid "Update Type"
+msgstr ""
+
+#: admin/post_types.php:79
+msgid "Tour Type"
+msgstr ""
+
+#: admin/post_types.php:87 admin/post_types.php:89 admin/post_types.php:101
+#: admin/post_types.php:108
+msgid "Locations"
+msgstr ""
+
+#: admin/post_types.php:90 admin/post_types.php:109
+msgid "Location"
+msgstr ""
+
+#: admin/post_types.php:92
+msgid "Add New Location"
+msgstr ""
+
+#: admin/post_types.php:93
+msgid "Edit Location"
+msgstr ""
+
+#: admin/post_types.php:94
+msgid "New Location"
+msgstr ""
+
+#: admin/post_types.php:95
+msgid "View Location"
+msgstr ""
+
+#: admin/post_types.php:96
+msgid "Search Locations"
+msgstr ""
+
+#: admin/post_types.php:97
+msgid "No Locations Found"
+msgstr ""
+
+#: admin/post_types.php:98
+msgid "No Locations Found in Trash"
+msgstr ""
+
+#: admin/post_types.php:99
+msgid "Parent Location"
+msgstr ""
+
+#: admin/post_types.php:100
+msgid "All Locations"
+msgstr ""
+
+#: admin/post_types.php:102
+msgid "Insert into Location"
+msgstr ""
+
+#: admin/post_types.php:103
+msgid "Uploaded to this Location"
+msgstr ""
+
+#: admin/post_types.php:104
+msgid "Location Image"
+msgstr ""
+
+#: admin/post_types.php:105
+msgid "Set Location Image"
+msgstr ""
+
+#: admin/post_types.php:106
+msgid "Remove Location Image"
+msgstr ""
+
+#: admin/post_types.php:107
+msgid "Use as Location Image"
+msgstr ""
+
+#: admin/post_types.php:111
+msgid "Geolocated, media-rich, narratives."
+msgstr ""
+
+#: admin/post_types.php:138 admin/post_types.php:140
+msgid "Subjects"
+msgstr ""
+
+#: admin/post_types.php:141
+msgid "Add New Subject"
+msgstr ""
+
+#: admin/post_types.php:142
+msgid "Separate subjects with commas"
+msgstr ""
+
+#: admin/post_types.php:143
+msgid "Choose from most used subjects"
+msgstr ""
+
+#: admin/post_types.php:144
+msgid "Add or Remove Subjects"
+msgstr ""
+
+#: admin/post_types.php:145
+msgid "No Location Subjects Found"
+msgstr ""
+
+#: admin/post_types.php:146
+msgid "Search Subjects"
+msgstr ""
+
+#: admin/post_types.php:147
+msgid "All Subject"
+msgstr ""
+
+#: admin/post_types.php:148
+msgid "Update Subject"
+msgstr ""
+
+#: admin/post_types.php:153
+msgid "Subject"
+msgstr ""
+
+#: admin/settings.php:55
+msgid "Map Settings - General"
+msgstr ""
+
+#: admin/settings.php:62
+msgid "Map Settings - Mapbox"
+msgstr ""
+
+#: admin/settings.php:69
+msgid "Content Settings"
+msgstr ""
+
+#: admin/settings.php:76
+msgid "Additional Settings"
+msgstr ""
+
+#: admin/settings.php:86
+msgid "Default Coordinates"
+msgstr ""
+
+#: admin/settings.php:90
+msgid "Enter the default map coordinates, e.g. [41.503240, -81.675249]"
+msgstr ""
+
+#: admin/settings.php:95
+msgid "Default Map Type"
+msgstr ""
+
+#: admin/settings.php:101 admin/settings.php:422
+msgid "Street (Carto Light)"
+msgstr ""
+
+#: admin/settings.php:102 admin/settings.php:423
+msgid "Terrain (Stamen)"
+msgstr ""
+
+#: admin/settings.php:103
+msgid "Standard (Open Street Maps)"
+msgstr ""
+
+#: admin/settings.php:109
+msgid "Default Zoom Level"
+msgstr ""
+
+#: admin/settings.php:113
+msgid ""
+"Choose a number between 0 (zoomed all the way out) and 20 (zoomed all the "
+"way in)."
+msgstr ""
+
+#: admin/settings.php:118
+msgid "Marker Clustering"
+msgstr ""
+
+#: admin/settings.php:122
+msgid "Enable clustering for crowded map markers"
+msgstr ""
+
+#: admin/settings.php:127
+msgid "Mapbox Key"
+msgstr ""
+
+#: admin/settings.php:131
+msgid "Enter your Mapbox API access token to enable Mapbox options."
+msgstr ""
+
+#: admin/settings.php:136
+msgid "Mapbox Satellite"
+msgstr ""
+
+#: admin/settings.php:140
+msgid "Enable Mapbox Satellite Streets layer"
+msgstr ""
+
+#: admin/settings.php:145
+msgid "Maki Markers"
+msgstr ""
+
+#: admin/settings.php:149
+msgid "Enable Maki Markers"
+msgstr ""
+
+#: admin/settings.php:154
+msgid "Maki Markers Color"
+msgstr ""
+
+#: admin/settings.php:158
+msgid "Enter an HTML hexadecimal color code (e.g. #000000)."
+msgstr ""
+
+#: admin/settings.php:163 admin/settings.php:167
+msgid "Disable Tours"
+msgstr ""
+
+#: admin/settings.php:172
+msgid "Disable Image Viewer"
+msgstr ""
+
+#: admin/settings.php:176
+msgid ""
+"Disable Photoswipe Image Viewer (images and captions will appear inline in a "
+"single column)"
+msgstr ""
+
+#: admin/settings.php:185
+msgid "Automatically add Subtitle"
+msgstr ""
+
+#: admin/settings.php:194
+msgid "Automatically add Lede"
+msgstr ""
+
+#: admin/settings.php:199
+msgid "Related Sources"
+msgstr ""
+
+#: admin/settings.php:203
+msgid "Automatically add Related Sources"
+msgstr ""
+
+#: admin/settings.php:208
+msgid "Media"
+msgstr ""
+
+#: admin/settings.php:212
+msgid "Automatically add Photo Gallery and Audio/Video Playlists"
+msgstr ""
+
+#: admin/settings.php:217
+msgid "Map"
+msgstr ""
+
+#: admin/settings.php:221
+msgid "Automatically add Map"
+msgstr ""
+
+#: admin/settings.php:254
+msgid "Customize default settings for PlacePress maps."
+msgstr ""
+
+#: admin/settings.php:258
+#, php-format
+msgid ""
+"All Mapbox options require an API access token. Get your token at %s (some "
+"Mapbox some functionality is rate-limited)."
+msgstr ""
+
+#: admin/settings.php:262
+#, php-format
+msgid ""
+"PlacePress attempts to add custom fields to your theme automatically using "
+"WordPress plugin filters. If you have compatibility issues with your theme "
+"or would like to customize where custom content appears, you can use the "
+"settings below to disable content filters. A full list of shortcodes and "
+"helper functions is available at %s"
+msgstr ""
+
+#: admin/settings.php:266
+msgid "Customize additional PlacePress settings."
+msgstr ""
+
+#: admin/settings.php:393
+msgid "(empty)"
+msgstr ""
+
+#: admin/settings.php:397
+#, php-format
+msgid ""
+"You entered %s for Default Coordinates. Please enter valid coordinates. "
+"Reverting to plugin default coordinates. Please try again."
+msgstr ""
+
+#: admin/settings.php:424
+msgid "Street (Open Street Maps)"
+msgstr ""
+
+#. Base ID
+#: widgets/widgets.php:17
+msgid "PlacePress Test Widget"
+msgstr ""
+
+#: widgets/widgets.php:18
+msgid "A PlacePress Widget"
+msgstr ""
+
+#: widgets/widgets.php:35
+msgid "Hello, World!"
+msgstr ""
+
+#: widgets/widgets.php:47
+msgid "New title"
+msgstr ""
+
+#: widgets/widgets.php:50
+msgid "Title:"
+msgstr ""
+
+#: admin/custom_ui/location_location_details.php:3
+msgid "Search for a location or click map..."
+msgstr ""
+
+#: admin/custom_ui/location_location_details.php:4
+msgid "Submit Search"
+msgstr ""
+
+#: admin/custom_ui/location_location_details.php:10
+msgid ""
+"Use the map to add geo-coordinates for this location. Place a marker "
+"manually by clicking the map or use the search bar to enter an address, "
+"coordinates, or other location query. Drag and drop the marker to change "
+"location and use the zoom controls to save a custom zoom level."
+msgstr ""
+
+#: admin/custom_ui/location_location_details.php:22
+msgid "No Results Found"
+msgstr ""
+
+#: admin/custom_ui/location_location_details.php:23
+msgid "Something went wrong! Please try again."
+msgstr ""
+
+#: admin/custom_ui/location_media.php:3
+msgid "Unknown Format"
+msgstr ""
+
+#: admin/custom_ui/location_media.php:4
+msgid "Untitled"
+msgstr ""
+
+#: admin/custom_ui/location_media.php:5
+msgid "Edit / View Metadata"
+msgstr ""
+
+#: admin/custom_ui/location_media.php:6
+msgid "This file does not have a description"
+msgstr ""
+
+#: admin/custom_ui/location_media.php:7
+msgid "Media Details"
+msgstr ""
+
+#: admin/custom_ui/location_media.php:8
+msgid "Media Preview"
+msgstr ""
+
+#: admin/custom_ui/location_media.php:9 admin/custom_ui/tour_items.php:16
+#: admin/custom_ui/tour_items.php:29
+msgid "Remove"
+msgstr ""
+
+#: admin/custom_ui/location_media.php:10
+msgid "Select or Upload"
+msgstr ""
+
+#: admin/custom_ui/location_media.php:111
+msgid "Select File"
+msgstr ""
+
+#: admin/custom_ui/location_media.php:117
+msgid "Use Selected"
+msgstr ""
+
+#: admin/custom_ui/tour_items.php:26
+msgid "Unable to get locations ..."
+msgstr ""
+
+#: admin/custom_ui/tour_items.php:27
+msgid "Type a title or subtitle to add location to tour..."
+msgstr ""
+
+#: admin/custom_ui/tour_items.php:28
+msgid "Getting locations..."
+msgstr ""
+
+#. Name of the plugin
+msgid "PlacePress for WordPress"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Publish location-based, media-rich, structured narratives compatible with "
+"PlacePress mobile apps. Designed for public historians, urbanists, and "
+"other humanities researchers. Adds Tour and Location post types, as well as "
+"custom taxonomies and metadata fields."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://placepress.org"
+msgstr ""
+
+#. Author of the plugin
+msgid "CSU Center for Public History + Digital Humanities"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://csudigitalhumanities.org"
+msgstr ""
